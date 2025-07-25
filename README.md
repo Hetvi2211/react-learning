@@ -1,12 +1,15 @@
-# React + Vite
+# react-learning
+This is a **React-based web application** deployed live using **Netlify**. The project is built using `npm run build` and uploaded manually via Netlify UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ✨ Features
 
-Currently, two official plugins are available:
+- ⚛️ **React Framework** – Built using React for component-based development and seamless state management.
+- 📁 **Folder-Based Component Structure** – Organized components inside `src/components` for modular development.
+- 🖼️ **Reusable UI Components** – Includes buttons and other reusable UI pieces.
+- 🎨 **Styled with CSS** – Custom styles for a responsive and clean UI.
+- ⚙️ **Production Ready Build** – Optimized build using `npm run build` and deployed on Netlify.
+- 🚀 **Live Deployment** – Manually deployed via Netlify for quick project hosting and sharing.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 **Live Demo:**  
+[https://grand-cranachan-8bcea7.netlify.app/](https://grand-cranachan-8bcea7.netlify.app/)
