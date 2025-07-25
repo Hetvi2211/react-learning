@@ -1,4 +1,4 @@
-# react-learning
+## react-learning
 This is a **React-based web application** deployed live using **Netlify**. The project is built using `npm run build` and uploaded manually via Netlify UI.
 
 ## ✨ Features
@@ -11,5 +11,5 @@ This is a **React-based web application** deployed live using **Netlify**. The p
 - 🚀 **Live Deployment** – Manually deployed via Netlify for quick project hosting and sharing.
 
 
-🔗 **Live Demo:**  
+## 🔗 **Live Demo:**  
 [https://grand-cranachan-8bcea7.netlify.app/](https://grand-cranachan-8bcea7.netlify.app/)
