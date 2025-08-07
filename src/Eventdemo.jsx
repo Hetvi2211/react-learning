@@ -22,4 +22,5 @@ function EventDemo() {
         Text2<input type="text" name="txt2" onChange={printData} />
     </>)
 }
+
 export default EventDemo
